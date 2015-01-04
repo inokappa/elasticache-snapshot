@@ -1,12 +1,18 @@
-# ElasticacheSnapshot
+## ElasticacheSnapshot
 
 TODO: Write a description
 
-## Installation
+### Feature
+
+ * Create Snapshot
+ * Delete Snapshot
+ * List Snapshot
+
+### Installation
 
 TODO: Write a description
 
-## Usage
+### Usage
 
 ~~~
 Commands:
@@ -16,7 +22,7 @@ Commands:
   elasticache-snapshot list                  # Describe Snapshots
 ~~~
 
-## Contributing
+### Contributing
 
 1. Fork it ( https://github.com/[my-github-username]/elasticache-snapshot/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
